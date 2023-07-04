@@ -1,0 +1,31 @@
+{
+  "name": "learning-three",
+  "version": "1.0.0",
+  "description": "learnig three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkankyilmaz/learning-three.js.git"
+  },
+  "keywords": [
+    "three.js",
+    "webgl",
+    "3d",
+    "animation"
+  ],
+  "author": "hkankyilmaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkankyilmaz/learning-three.js/issues"
+  },
+  "homepage": "https://github.com/hkankyilmaz/learning-three.js#readme",
+  "dependencies": {
+    "three": "^0.91.0"
+  },
+  "devDependencies": {
+    "jslint": "^0.11.0"
+  }
+}
